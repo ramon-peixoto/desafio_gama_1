@@ -1,17 +1,3 @@
-/* 
-
-Lembrete para que o site fique o mais responsivo possivel: 
-
-
-    Colocar os Widths, das colunas, divs, elementos e imagens em 100% (Containers que vão abrigar todas as Divs, você usa a % que for mais adequada ao que mostra no Figma.) e não usar o position:absolute
-    
-    Usar display:flex sempre que você precisar mover os elementos 
-    
-    Colocar as imagens com height: auto e width 100% 
-
-
-*/
-
 * {
     box-sizing: border-box;
     font-family: 'Ubuntu', sans-serif;

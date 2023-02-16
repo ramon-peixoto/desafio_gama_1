@@ -79,26 +79,64 @@ ul {
 
 }
 
+.titulo {
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    width: 80%;
+}
+
+.titulo h1 {
+    margin: 0;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 60px;
+    line-height: 69px;
+    /* identical to box height */
+
+    text-transform: capitalize;
+
+    color: #FF4081;
+}
+
+.titulo h5 {
+    margin: 0;
+    font-family: 'Ubuntu';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 23px;
+    /* identical to box height */
+
+
+    color: #555555;
+}
+
 section {
     display: flex;
     flex-direction: column;
     align-items: center;
     padding: 0;
     padding-top: 50px;
-    padding-bottom: 50px;
+    padding-bottom: 100px;
 }
 
 .linha {
     margin-top: 30px;
     margin-bottom: 30px;
-    width: 70%;
+    height: 5px;
+    background: #C4C4C4;
+    width: 80%;
 }
+
 
 .baner {
     display: flex;
     width: 80%;
     height: auto;
     margin: 0;
+    justify-content: center;
 }
 
 
@@ -107,10 +145,19 @@ section {
     flex-direction: column;
     width: 100%;
     height: auto;
-    padding: 50px;
+    padding: 0;
     align-items: flex-start;
+    margin-left: 100px;
+    text-align: justify;
+    width: 50%;
 
 
+}
+
+.imagens {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
 }
 
 .baner img {
@@ -138,6 +185,7 @@ section {
     display: flex;
     align-items: center;
     color: #000000;
+
 
 }
 
@@ -251,10 +299,16 @@ section {
         flex-direction: column;
     }
 
+    .linha {
+        width: 90%;
+
+    }
+
     .coluna_baner {
         align-items: center;
         width: 100%;
         padding: 0;
+        margin: 0;
     }
 
     .coluna_baner a {

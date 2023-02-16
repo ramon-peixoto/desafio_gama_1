@@ -87,7 +87,7 @@ ul {
     margin: 0;
     margin-top: 111px;
     margin-bottom: 111px;
-    
+
 }
 
 .post img {
@@ -149,9 +149,10 @@ p {
     align-items: center;
     background: #C4C4C4;
 } */
-.texto{
+.texto {
     background: #F7F7F7;
 }
+
 .post .texto {
     display: flex;
     flex-direction: column;
@@ -324,6 +325,10 @@ p {
         display: flex;
         flex-direction: column;
 
+    }
+
+    .post {
+        width: 90%;
     }
 
     .cursos .coluna_curso {

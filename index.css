@@ -84,7 +84,7 @@ ul {
     margin: auto;
     margin-top: 125px;
     margin-bottom: 66px;
-   
+
 }
 
 
@@ -163,13 +163,15 @@ ul {
     justify-content: center;
     text-align: center;
     margin: auto;
+    padding-top: 20px;
+
 
 }
 
 
 .coluna_curso {
     display: flex;
-    /*     width: 30%; */
+
     flex-direction: column;
     align-items: center;
     margin-top: 100px;
@@ -470,10 +472,14 @@ article {
     .baner {
         flex-direction: column;
         justify-content: space-between;
+        margin: auto;
+
     }
-.coluna_baner{
-    align-items: center;
-}
+
+    .coluna_baner {
+        align-items: center;
+    }
+
     .coluna_baner a {
         display: flex;
         width: 100%;
