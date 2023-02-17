@@ -5,6 +5,8 @@ Projeto Feito para o Curso Gama Experiência.
 
 Todo o código foi criado com base no que foi ensinado durante o Curso de CSS/HMTL. 
 
+
+
 Critérios de Avaliação
 
 ● As páginas devem ser responsivas, se adaptando bem para desktop, tablet e smartphones.
@@ -14,6 +16,8 @@ Critérios de Avaliação
 ● O site deve ser disponibilizado no Github Pages, com todas as imagens renderizando corretamente.
 
 
+
+
 Quais os entregáveis desse desafio?
 
 ● Todas as páginas devem ser responsivas.
@@ -21,6 +25,8 @@ Quais os entregáveis desse desafio?
 ● Código entregue em repositório público no Github.
 
 ● Páginas publicadas no Github Pages.
+
+
 
 
 Referencias Extras de estudo: 
