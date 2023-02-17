@@ -18,6 +18,7 @@ Quais os entregáveis desse desafio?
 ● Código entregue em repositório público no Github.
 ● Páginas publicadas no Github Pages.
 
+
 Referencias Extras de estudo: 
 
 https://www.w3schools.com/css/default.asp
