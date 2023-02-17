@@ -8,14 +8,18 @@ Todo o código foi criado com base no que foi ensinado durante o Curso de CSS/HM
 Critérios de Avaliação
 
 ● As páginas devem ser responsivas, se adaptando bem para desktop, tablet e smartphones.
+
 ● Os links devem ser configurados para permitir a navegação entre as páginas.
+
 ● O site deve ser disponibilizado no Github Pages, com todas as imagens renderizando corretamente.
 
 
 Quais os entregáveis desse desafio?
 
 ● Todas as páginas devem ser responsivas.
+
 ● Código entregue em repositório público no Github.
+
 ● Páginas publicadas no Github Pages.
 
 
