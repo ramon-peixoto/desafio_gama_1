@@ -1,4 +1,4 @@
-# desafio_gama_1
+# Desafio 1 - CSS/HTML 
 
 
 Projeto Feito para o Curso Gama Experiência. 
