@@ -32,7 +32,9 @@ Quais os entregáveis desse desafio?
 Referencias Extras de estudo: 
 
 https://www.w3schools.com/css/default.asp
+
 https://www.w3schools.com/html/default.asp
+
 https://stackoverflow.com/
 
 
